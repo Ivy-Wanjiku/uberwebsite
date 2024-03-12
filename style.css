@@ -1,0 +1,38 @@
+#class{
+    display: flex;
+    gap: 12%;
+}
+#main{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding-left: 15%;
+}
+#company{
+    display: flex;
+    gap: 20%;
+
+}
+#image{
+    margin-left: 85%;
+}
+#uber{
+    display: flex;
+    gap: 75%;
+}
+#words{
+    display: flex;
+    gap:50%;
+}
+#everything{
+    padding-left: 15%;
+}
+#icons{
+    display: flex;
+    gap: 2%;
+}
+#quiz{
+    font-weight: bolder;
+}
+#class{
+    display: flex;
+}
